@@ -1,3 +1,4 @@
+
 import unittest
 import pyperclip
 from user_credentials import User, Credential
@@ -12,7 +13,8 @@ class TestUser(unittest.TestCase):
 		'''
 		Function to create a user account before each test
 		'''
-		self.new_user = User('Alex','Mureithi','1234')
+		self.new_user = User('fname', 'lname', 'password')
+           
 
 	def test__init__(self):
 		'''
