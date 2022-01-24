@@ -17,7 +17,9 @@ As a user i would like to be able to:
 ## Unique codes
 
 Ca - create account
+
 Li - login
+
 Ex - exit
 
 On choosing create an account you will be prompted to follow some instructions which will guide you in the process of account creation.
@@ -27,6 +29,7 @@ On choosing create an account you will be prompted to follow some instructions w
 Install the latest version of python which is: Python 3.10
 
 Git clone into your local machine https://github.com/alex-mu/Password-locker.git
+
 cd into password-locker
 
 You can commit and make adjustments as you wish and can even become a contributor
